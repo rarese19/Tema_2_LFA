@@ -1,5 +1,5 @@
 # Tema_2_LFA
-# Implementarea unui AFD.
+# Generarea tuturor cuvintelor acceptate de un automat finit.
 Datele de intrare: <br/>
 Linia 1: Numarul de stari finale <br/>
 Linia 2: Stare finala 1 <br/>
